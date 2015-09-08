@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/01-单例模式/src/Client.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/01-单例模式/src/com/king/singleton/Singleton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-单例模式/src/SingletonPatternDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-单例模式/src/com/king/singleton/SingletonObject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-单例模式/src/singleton_pattern_uml_diagram.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02-01-工厂模式/src/factory_pattern_uml_diagram.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02-03-抽象工厂模式/src/abstractfactory_pattern_uml_diagram.jpg" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

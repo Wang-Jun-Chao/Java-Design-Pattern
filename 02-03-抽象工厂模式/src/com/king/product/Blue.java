@@ -3,13 +3,12 @@ package com.king.product;
 /**
  * Author: 王俊超
  * Date: 2015-09-08
- * Time: 09:54
+ * Time: 16:02
  * Declaration: All Rights Reserved !!!
  */
-public class ProductC extends AbstractProduct {
-
+public class Blue implements Color {
     @Override
-    public String toString() {
-        return "我是个具体产品C";
+    public void fill() {
+        System.out.println("Blue.fill");
     }
 }

@@ -3,13 +3,12 @@ package com.king.product;
 /**
  * Author: 王俊超
  * Date: 2015-09-08
- * Time: 09:53
+ * Time: 16:02
  * Declaration: All Rights Reserved !!!
  */
-public abstract class AbstractProduct {
-
+public class Green implements Color {
     @Override
-    public String toString() {
-        return "我是个抽象产品";
+    public void fill() {
+        System.out.println("Green.fill");
     }
 }

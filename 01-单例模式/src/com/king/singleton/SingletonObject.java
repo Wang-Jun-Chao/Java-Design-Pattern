@@ -6,16 +6,16 @@ package com.king.singleton;
  * Time: 09:39
  * Declaration: All Rights Reserved !!!
  */
-public class Singleton {
+public class SingletonObject {
     /**
      * 单例对象
      */
-    private final static Singleton INSTANCE = new Singleton();
+    private final static SingletonObject INSTANCE = new SingletonObject();
 
     /**
      * 私有构造方法，保证不被不被new实例
      */
-    private Singleton() {
+    private SingletonObject() {
 
     }
 
@@ -24,14 +24,14 @@ public class Singleton {
      *
      * @return 单例对象
      */
-    public static Singleton getInstance() {
+    public static SingletonObject getInstance() {
         return INSTANCE;
     }
 
     /**
      * 具体方法
      */
-    public void operate() {
+    public void showMessage() {
         System.out.println("进行某些操作");
     }
 }

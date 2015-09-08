@@ -6,9 +6,10 @@ package com.king.product;
  * Time: 09:54
  * Declaration: All Rights Reserved !!!
  */
-public class ProductB extends AbstractProduct {
+public class Rectangle implements Shape {
+
     @Override
-    public String toString() {
-        return "我是个具体产品B";
+    public void draw() {
+        System.out.println("Rectangle.draw");
     }
 }
