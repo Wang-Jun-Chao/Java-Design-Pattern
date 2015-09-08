@@ -6,6 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/02-01-工厂模式/02-01-工厂模式.iml" filepath="$PROJECT_DIR$/02-01-工厂模式/02-01-工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-02-工厂方法模式/02-02-工厂方法模式.iml" filepath="$PROJECT_DIR$/02-02-工厂方法模式/02-02-工厂方法模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-03-抽象工厂模式/02-03-抽象工厂模式.iml" filepath="$PROJECT_DIR$/02-03-抽象工厂模式/02-03-抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-模板方法模式/03-模板方法模式.iml" filepath="$PROJECT_DIR$/03-模板方法模式/03-模板方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-代理模式/04-代理模式.iml" filepath="$PROJECT_DIR$/04-代理模式/04-代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-原型模式/05-原型模式.iml" filepath="$PROJECT_DIR$/05-原型模式/05-原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-中介者模式/06-中介者模式.iml" filepath="$PROJECT_DIR$/06-中介者模式/06-中介者模式.iml" />
     </modules>
   </component>
 </project>

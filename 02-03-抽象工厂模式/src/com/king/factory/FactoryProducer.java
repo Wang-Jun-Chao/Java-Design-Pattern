@@ -8,6 +8,13 @@ package com.king.factory;
  */
 public class FactoryProducer {
     public static AbstractFactory getFactory(String choice) {
+
+        if (choice == null) {
+            return null;
+        }
+
+        choice = choice.toUpperCase();
+
         switch (choice) {
             case "SHAPE":
                 return new ShapeFactory();

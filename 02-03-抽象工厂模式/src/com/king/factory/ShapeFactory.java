@@ -15,8 +15,15 @@ public class ShapeFactory  extends AbstractFactory{
     }
 
     @Override
-    public Shape getShape(String shapeType) {
-        switch (shapeType) {
+    public Shape getShape(String shape) {
+
+        if (shape == null) {
+            return null;
+        }
+
+        shape = shape.toUpperCase();
+
+        switch (shape) {
             case "CIRCLE":
                 return new Circle();
             case "RECTANGLE":

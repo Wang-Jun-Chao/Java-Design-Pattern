@@ -11,6 +11,12 @@ import com.king.product.*;
 public class ColorFactory extends AbstractFactory {
     @Override
     public Color getColor(String color) {
+        if (color == null) {
+            return null;
+        }
+
+        color = color.toUpperCase();
+
         switch (color) {
             case "RED":
                 return new Red();
