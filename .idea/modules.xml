@@ -17,9 +17,16 @@
       <module fileurl="file://$PROJECT_DIR$/11-适配器模式/11-适配器模式.iml" filepath="$PROJECT_DIR$/11-适配器模式/11-适配器模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/12-迭代器模式/12-迭代器模式.iml" filepath="$PROJECT_DIR$/12-迭代器模式/12-迭代器模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/13-组合模式/13-组合模式.iml" filepath="$PROJECT_DIR$/13-组合模式/13-组合模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/14--观察者模式/14--观察者模式.iml" filepath="$PROJECT_DIR$/14--观察者模式/14--观察者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/14-观察者模式/14-观察者模式.iml" filepath="$PROJECT_DIR$/14-观察者模式/14-观察者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-观察者模式/14-观察者模式.iml" filepath="$PROJECT_DIR$/14-观察者模式/14-观察者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-门面模式/15-门面模式.iml" filepath="$PROJECT_DIR$/15-门面模式/15-门面模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-备忘录模式/16-备忘录模式.iml" filepath="$PROJECT_DIR$/16-备忘录模式/16-备忘录模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-状态模式/17-状态模式.iml" filepath="$PROJECT_DIR$/17-状态模式/17-状态模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-解释器模式/18-解释器模式.iml" filepath="$PROJECT_DIR$/18-解释器模式/18-解释器模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/19-访问者模式/19-访问者模式.iml" filepath="$PROJECT_DIR$/19-访问者模式/19-访问者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-享元模式/20-享元模式.iml" filepath="$PROJECT_DIR$/20-享元模式/20-享元模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-桥接模式/21-桥接模式.iml" filepath="$PROJECT_DIR$/21-桥接模式/21-桥接模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-创建者模式/22-创建者模式.iml" filepath="$PROJECT_DIR$/22-创建者模式/22-创建者模式.iml" />
     </modules>
   </component>
 </project>
