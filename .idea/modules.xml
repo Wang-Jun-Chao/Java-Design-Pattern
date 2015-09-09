@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/09-装饰模式/09-装饰模式.iml" filepath="$PROJECT_DIR$/09-装饰模式/09-装饰模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-策略模式/10-策略模式.iml" filepath="$PROJECT_DIR$/10-策略模式/10-策略模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-适配器模式/11-适配器模式.iml" filepath="$PROJECT_DIR$/11-适配器模式/11-适配器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-迭代器模式/12-迭代器模式.iml" filepath="$PROJECT_DIR$/12-迭代器模式/12-迭代器模式.iml" />
     </modules>
   </component>
 </project>
