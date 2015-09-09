@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/04-代理模式/04-代理模式.iml" filepath="$PROJECT_DIR$/04-代理模式/04-代理模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-原型模式/05-原型模式.iml" filepath="$PROJECT_DIR$/05-原型模式/05-原型模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-中介者模式/06-中介者模式.iml" filepath="$PROJECT_DIR$/06-中介者模式/06-中介者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-命令模式/07-命令模式.iml" filepath="$PROJECT_DIR$/07-命令模式/07-命令模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-责任链模式/08-责任链模式.iml" filepath="$PROJECT_DIR$/08-责任链模式/08-责任链模式.iml" />
     </modules>
   </component>
 </project>
