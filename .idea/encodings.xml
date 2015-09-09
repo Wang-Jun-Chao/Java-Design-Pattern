@@ -11,6 +11,9 @@
     <file url="file://$PROJECT_DIR$/05-原型模式/src/prototype_pattern_uml_diagram.jpg" charset="GBK" />
     <file url="file://$PROJECT_DIR$/07-命令模式/src/command_pattern_uml_diagram.jpg" charset="GBK" />
     <file url="file://$PROJECT_DIR$/12-迭代器模式/src/iterator_pattern_uml_diagram.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/13-组合模式/src/composite_pattern_uml_diagram.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/14--观察者模式/src/observer_pattern_uml_diagram.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/19-访问者模式/src/visitor_pattern_uml_diagram.jpg" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
